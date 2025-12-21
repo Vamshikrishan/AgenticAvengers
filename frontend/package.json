@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
   "dev": "vite",
-  "build": "npx vite build",
-  "preview": "npx vite preview"
+  "build": "vite build",
+  "preview": "vite preview"
 },
 
   "dependencies": {
