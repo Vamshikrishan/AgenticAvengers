@@ -220,7 +220,3 @@ This project is provided under the MIT License. See the LICENSE file for details
 - Thank you to the contributors, community, and the maintainers for building and iterating on this project.
 
 ---
-
-If you'd like, I can:
-- Tailor this README to the exact tech stack in the repository (e.g., add concrete start commands for Node/React, or Python/FastAPI) — tell me which stack is used or point me to the repo files.
-- Create a `.env.example` or Docker Compose example and add it to the repo.
